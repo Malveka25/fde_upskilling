@@ -7,13 +7,13 @@ A full-stack web application built to manage and track projects. This applicatio
 This project is a classic full-stack application demonstrating the integration of a modern Python backend with a reactive JavaScript frontend.
 
 *   **Backend:**
-    *   **Framework:** [FastAPI](https://fastapi.tiangolo.com/) - A high-performance Python web framework for building APIs.
-    *   **Database:** [SQLite](https://www.sqlite.org/index.html) - A lightweight, file-based SQL database.
-    *   **ORM:** [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
+    *   **Framework:** [FastAPI](https://fastapi.tiangolo.com/) 
+    *   **Database:** [SQLite](https://www.sqlite.org/index.html)
+    *   **ORM:** [SQLAlchemy](https://www.sqlalchemy.org/) 
 
 *   **Frontend:**
-    *   **Library:** [React](https://react.dev/) - A JavaScript library for building user interfaces.
-    *   **Build Tool:** [Vite](https://vitejs.dev/) - A next-generation frontend tooling that provides a faster and leaner development experience.
+    *   **Library:** [React](https://react.dev/) 
+    *   **Build Tool:** [Vite](https://vitejs.dev/) 
 
 ## Features
 
